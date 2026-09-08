@@ -374,6 +374,4 @@ seed is `42` and is configurable through the config file.
 - Extend `optimization.py` to multi-objective scoring across several
   predicted properties at once.
 
-## License
 
-Add a license of your choice before publishing this repository.

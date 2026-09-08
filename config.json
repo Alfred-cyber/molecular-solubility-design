@@ -1,0 +1,13 @@
+{
+    "dataset": "zpn/delaney",
+    "smiles_column": "smiles",
+    "target_column": "target",
+    "target_logS": -2.0,
+    "top_n": 10,
+    "model": "random_forest",
+    "random_seed": 42,
+    "models_dir": "models",
+    "results_dir": "results",
+    "model_filename": "solubility_model.joblib"
+  }
+  

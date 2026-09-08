@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+.venv/
+venv/
+
+models/*.joblib
+results/*.json
+results/*.png
+
+!models/.gitkeep
+!results/.gitkeep
+
+.DS_Store
